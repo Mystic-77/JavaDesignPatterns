@@ -1,0 +1,1 @@
+Just exploring java design patterns, will be adding a readme in every pattern's package.
